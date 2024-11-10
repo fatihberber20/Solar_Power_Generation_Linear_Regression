@@ -6,7 +6,6 @@ Project Overview
 This project demonstrates the application of Multiple Linear Regression to analyze a dataset with 1620 records and 8 variables related to solar energy output. The dataset, Pv.xlsx, contains information on environmental factors such as altitude, solar duration, temperature, and global solar radiation, along with the power level and axis orientation, which influence the target variable Result (energy output).
 
 Key steps include:
-
 Data Correlation Analysis
 Descriptive Statistical Summaries
 Data Normalization and Scaling
